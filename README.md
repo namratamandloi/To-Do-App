@@ -40,19 +40,3 @@ This is a multi-user Todo List web application built using **HTML, CSS, and Java
 └── dashboard.css       → dashboard (toto) styles
 ```
 
-## 🚀 How to Run
-
-1. Clone the repo
-2. Open `signup.html` to register
-3. Login via `index.html`
-4. Manage tasks on `dashboard.html`
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Raghavendra Dasari** – [@raghavendradasari](https://www.linkedin.com/in/raghavendra-dasari)
